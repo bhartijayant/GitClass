@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master Test File
+=======
+New Life With New Value
+>>>>>>> 9c12de1894630a21cab026abfb71ac4f97e80a2a
